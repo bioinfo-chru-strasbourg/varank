@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Vincent Zilliox <vzilliox@chru-stasbourg.fr>
+MAINTAINER Vincent Zilliox <vzilliox@chru-strasbourg.fr>
 
 ##########################################################################
 # Dockerfile Version:	1.0
